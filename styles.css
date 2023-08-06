@@ -58,6 +58,10 @@ nav a:hover{
     background-color: #F28095;
 }
 
+.nav a:first-child{
+    background-color: #F28095;
+}
+
 main{
     color: #542c1b;
     padding-bottom: 16px;
